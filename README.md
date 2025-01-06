@@ -1,3 +1,24 @@
+## git-gen's AI Instructions/Rules File Generator
+
+`git-gen-dotfile-generator` provides a user-friendly interface to generate AI instructions and rules for your project. Below are examples of how it works.
+
+### 1. Empty Form Screen
+This screenshot shows the empty form where users can fill out the required project details:
+
+![Empty Form Screenshot](![image](https://github.com/user-attachments/assets/4456cf65-f9d3-46d1-95de-1abc443f79b3))
+
+### 2. Example of a Completed Form
+This screenshot demonstrates the result after filling in the project details and generating the AI instructions and rules:
+
+![Filled Form Screenshot](![image](https://github.com/user-attachments/assets/f8723736-c6d8-48ce-9050-535c2b1d7229)
+)
+
+### Features:
+- Ability to specify project name, role, expertise areas, and coding preferences.
+- Add sample code to create contextual rules.
+- Download the generated instructions/rules directly.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
