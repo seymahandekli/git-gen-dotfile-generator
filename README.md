@@ -5,13 +5,14 @@
 ### 1. Empty Form Screen
 This screenshot shows the empty form where users can fill out the required project details:
 
-![Empty Form Screenshot](![image](https://github.com/user-attachments/assets/4456cf65-f9d3-46d1-95de-1abc443f79b3))
+![image](https://github.com/user-attachments/assets/aadb8dc0-bacd-41c4-ad76-fa2e557792f5)
+
 
 ### 2. Example of a Completed Form
 This screenshot demonstrates the result after filling in the project details and generating the AI instructions and rules:
 
-![Filled Form Screenshot](![image](https://github.com/user-attachments/assets/f8723736-c6d8-48ce-9050-535c2b1d7229)
-)
+![image](https://github.com/user-attachments/assets/c6fcbced-d6af-4383-9d46-5b26459500d7)
+
 
 ### Features:
 - Ability to specify project name, role, expertise areas, and coding preferences.
